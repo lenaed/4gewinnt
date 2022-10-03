@@ -1,3 +1,5 @@
+package com.lenaegerer.viergewinnt;
+
 import java.util.LinkedList;
 
 public class SlidingWindow {

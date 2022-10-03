@@ -1,5 +1,6 @@
+package com.lenaegerer.viergewinnt;
 
-class Gameboard {
+public class Gameboard {
     final private int ROWS = 6;
     final private int COLUMNS = 7;
 

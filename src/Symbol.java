@@ -1,4 +1,0 @@
-enum Symbol {
-    X,
-    O
-};

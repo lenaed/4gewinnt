@@ -1,3 +1,5 @@
+package com.lenaegerer.viergewinnt;
+
 public enum Status {
     PLAYING(true),
     O_WINS(false),
